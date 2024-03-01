@@ -45,6 +45,9 @@ namespace rpc {
     Bridge       =   26u,
     RailTrack    =   27u,
     GuardRail    =   28u,
+    // OpenAVP
+    ParkingLane  =   29u,
+    ParkingArea  =   30u,
 
     Any          =  0xFF
   };
