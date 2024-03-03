@@ -373,7 +373,7 @@ rem ============================================================================
 rem -- Generate CMake ----------------------------------------------------------
 rem ============================================================================
 
-for /f %%i in ('git describe --tags --dirty --always') do set carla_version=%%i
+set carla_version="0.9.15-B3-AVP2.2"
 set CMAKE_INSTALLATION_DIR=%INSTALLATION_DIR:\=/%
 
 echo %FILE_N% Creating "CMakeLists.txt.in"...
