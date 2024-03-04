@@ -50,7 +50,7 @@ namespace detail {
         {230u, 150u, 140u},   // rail track    =  27u
         {180u, 165u, 180u},    // guard rail    =  28u
         {250u, 170u, 160u},   // parking lane  =  29u
-        {170u, 170u, 170u}    // parking area  =  30u
+        {111U, 246u, 162u}    // parking area  =  30u
       };
 
 } // namespace detail
