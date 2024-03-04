@@ -13,7 +13,7 @@ For usage issues, please refer to the [official CARLA documentation](https://car
 
 ### RELEASE
 
-- **0.9.15-B2-AVP2.1**
+- **0.9.15-B3-AVP2.2**
     - Windows - Download -> [Dropbox](https://www.dropbox.com/scl/fi/tk67jt86yu41pg5ohtemq/CARLA-Server-0.9.15-B2-AVP2.1-WIN64.zip?rlkey=zg787j2rdvo1w4yi04xumz8lk&dl=0) | [BaiduNetDisk](https://pan.baidu.com/s/172gPbsxXxg66ie6ql14jqQ?pwd=gt9m) - 2023/03/04
     - Linux - _Not Supported_
 
