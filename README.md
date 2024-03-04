@@ -14,7 +14,7 @@ For usage issues, please refer to the [official CARLA documentation](https://car
 ### RELEASE
 
 - **0.9.15-AVP2.1**
-    - Windows - Download -> [Dropbox]() | [BaiduNetDisk]() - 2023/02/29
+    - Windows - Download -> [Dropbox](https://www.dropbox.com/scl/fi/tk67jt86yu41pg5ohtemq/CARLA-Server-0.9.15-AVP2.1-WIN64.zip?rlkey=zg787j2rdvo1w4yi04xumz8lk&dl=0) | [BaiduNetDisk](https://pan.baidu.com/s/1vQ2PwvtS5B28QrTYBFIGzQ?pwd=kgi5) - 2023/02/29
     - Linux - _Not Supported_
 
 ### CHANGELOG
