@@ -6,7 +6,7 @@
 
 DOC_STRING="Download and install the required libraries for carla."
 
-USAGE_STRING="Usage: $0 [--python-version=VERSION]"
+USAGE_STRING="Usage: $0 [--python-version=VERSION]"f
 
 OPTS=`getopt -o h --long help,chrono,ros2,pytorch,python-version: -n 'parse-options' -- "$@"`
 
@@ -876,6 +876,7 @@ fi
 # ==============================================================================
 
 CARLA_VERSION=$(get_git_repository_version)
+CARLA_VERSION="0.9.15-B3-AVP2.2"
 
 log "CARLA version ${CARLA_VERSION}."
 
