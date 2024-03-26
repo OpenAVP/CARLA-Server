@@ -876,7 +876,7 @@ fi
 # ==============================================================================
 
 CARLA_VERSION=$(get_git_repository_version)
-CARLA_VERSION="0.9.15-B3-AVP2.2"
+CARLA_VERSION="0.9.15-B4-AVP3.0"
 
 log "CARLA version ${CARLA_VERSION}."
 
