@@ -37,13 +37,13 @@ For usage issues, please refer to the [official CARLA documentation](https://car
       > Update the ground texture in the `Playground` scene, now is 1m x 1m checkerboard
 
 - **0.9.15-B3-AVP2.2**
-    - Use AVP2.2 content package ([details](https://github.com/OpenAVP/CARAL-Server-Content/releases/tag/AVP2.2))
+    - Use AVP2.2 content package ([details](https://github.com/OpenAVP/CARAL-Server-Content/releases/tag/0.9.15-AVP2.2))
     - Fix collider bug in AVP2.1 content package
     - Update parking area color to be more visible, use `111, 246, 162` now
     - Update carla version tag to mach this release
 
 - **0.9.15-B2-AVP2.1**
-    - Use AVP2.1 content package ([details](https://github.com/OpenAVP/CARAL-Server-Content/releases/tag/AVP2.1))
+    - Use AVP2.1 content package ([details](https://github.com/OpenAVP/CARAL-Server-Content/releases/tag/0.9.15-AVP2.1))
     - Adding map `SUSTech_COE_ParkingLot`
     - Adding map `Playground`
     - Adding semantic segmentation lables `Parking Area` and `Parking Lane`
