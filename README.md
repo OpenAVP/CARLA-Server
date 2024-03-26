@@ -6,12 +6,19 @@ This repository is used to store optimized and modified versions of [CARLA](http
 
 For usage issues, please refer to the [official CARLA documentation](https://carla.readthedocs.io/en/latest/).
 
+<img width="1814" alt="image" src="https://github.com/OpenAVP/CARLA-Server/assets/51916543/45abdd3c-3c6b-4920-93a3-42c430322b7c">
+
+
 > [!IMPORTANT]  
-> Matching Content Version: **AVP2.2**
+> Matching Content Version: **AVP3.0**
 > 
 > Content Repo: [https://github.com/OpenAVP/CARAL-Server-Content](https://github.com/OpenAVP/CARAL-Server-Content)
 
 ### RELEASE
+
+- **0.9.15-B4-AVP3.0**
+    - Windows - Download -> [Dropbox](https://www.dropbox.com/scl/fi/ffoltedl8bsh53cefodia/CARLA-Server-0.9.15-B4-AVP3.0-Win64.zip?rlkey=0hvb35vgneegp2r6xsch0fhi7&dl=0) | [BaiduNetDisk](https://pan.baidu.com/s/1OxBo3x_6F80tewSuraShkQ?pwd=ixn3) - 2023/03/26
+    - Linux - Download -> [Dropbox](https://www.dropbox.com/scl/fi/pncy6p4tls7n72bpkiswu/CARLA-Server-0.9.15-B4-AVP3.0-Linux64.tar.gz?rlkey=pumx1e73ftpf5bwyk1s5wvc6w&dl=0) | [BaiduNetDisk](https://pan.baidu.com/s/1Fr4kkAzKbPR2RnGuwtWdRw?pwd=ntfs) - 2023/03/26
 
 - **0.9.15-B3-AVP2.2**
     - Windows - Download -> [Dropbox](https://www.dropbox.com/scl/fi/tk67jt86yu41pg5ohtemq/CARLA-Server-0.9.15-B2-AVP2.1-WIN64.zip?rlkey=zg787j2rdvo1w4yi04xumz8lk&dl=0) | [BaiduNetDisk](https://pan.baidu.com/s/172gPbsxXxg66ie6ql14jqQ?pwd=gt9m) - 2023/03/04
@@ -22,6 +29,12 @@ For usage issues, please refer to the [official CARLA documentation](https://car
     - Linux - _Not Supported_
 
 ### CHANGELOG
+
+- **0.9.15-B3-AVP3.0**
+    - Use AVP3.0 content package ([details](https://github.com/OpenAVP/CARAL-Server-Content/releases/tag/0.9.15-AVP3.0))
+      > Add custom vehicle `vehicle.byd.qinpro` about BYD QinPro EV (SUSTech Modified)
+      > Update the shadows on the ceiling in the `SUSTech_COE_ParkingLot` scene
+      > Update the ground texture in the `Playground` scene, now is 1m x 1m checkerboard
 
 - **0.9.15-B3-AVP2.2**
     - Use AVP2.2 content package ([details](https://github.com/OpenAVP/CARAL-Server-Content/releases/tag/AVP2.2))
