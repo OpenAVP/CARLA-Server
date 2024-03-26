@@ -32,9 +32,9 @@ For usage issues, please refer to the [official CARLA documentation](https://car
 
 - **0.9.15-B3-AVP3.0**
     - Use AVP3.0 content package ([details](https://github.com/OpenAVP/CARAL-Server-Content/releases/tag/0.9.15-AVP3.0))
-      > Add custom vehicle `vehicle.byd.qinpro` about BYD QinPro EV (SUSTech Modified)
-      > Update the shadows on the ceiling in the `SUSTech_COE_ParkingLot` scene
-      > Update the ground texture in the `Playground` scene, now is 1m x 1m checkerboard
+      > - Add custom vehicle `vehicle.byd.qinpro` about BYD QinPro EV (SUSTech Modified)
+      > - Update the shadows on the ceiling in the `SUSTech_COE_ParkingLot` scene
+      > - Update the ground texture in the `Playground` scene, now is 1m x 1m checkerboard
 
 - **0.9.15-B3-AVP2.2**
     - Use AVP2.2 content package ([details](https://github.com/OpenAVP/CARAL-Server-Content/releases/tag/0.9.15-AVP2.2))
